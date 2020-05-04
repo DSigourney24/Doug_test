@@ -1,0 +1,2 @@
+#Test script
+library(rjags)
